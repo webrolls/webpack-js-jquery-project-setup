@@ -1,4 +1,4 @@
-<strong>webpack/Babel javascript project setup</strong>
+<strong>Webpack/Babel javascript project setup</strong>
 
 This is a simple plain Javascript boilerplate project setup. </br>
 If you are looking to setup your Javascript project using following then this git repo might help you.
@@ -15,7 +15,7 @@ To get started, follow the steps below and witness the awesomeness!!! </br> </br
 <li>Go to folder 'projects' and clone the reposiory...</li> </br>
 <pre>git clone git@github.com:caleem/webpack-javascript-project-setup.git</pre>
 <li>you will see 'webpack-javascript-project-setup' folder under 'projects' folder.</li>
-<li>now goto 'webpack-javascript-project-setup' folder and run..</li> </br> </br>
+<li>now goto 'webpack-javascript-project-setup' folder and run..</li> </br>
 <pre>cd webpack-javascript-project-setup</pre>
 <pre>npm install</pre>
 <li>Once all the dependencies are installed, build the project to deploy it on localhost by running following command...</li> </br>
@@ -27,7 +27,11 @@ To get started, follow the steps below and witness the awesomeness!!! </br> </br
 <li>Done!</li>
 </ol>
 
-If you see any problem, please let me know.
+If you experience any challenge, please let us know we will update the steps.
+
+thank you
+
+Webrolls
 
 
 
