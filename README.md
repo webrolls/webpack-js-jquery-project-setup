@@ -17,6 +17,7 @@ install webpack and webpack-dev-server
 <li>npm install --save-dev webpack webpack-dev-server </li>
 <li>add webpack.config.js under project root folder in our case it 'webpack-javascript-project-setup' </li>
 
+<pre>
 const path = require('path');
 module.exports = {
 	entry: './src/index.js',
@@ -34,10 +35,10 @@ module.exports = {
 		]
 	}
 };
-
-Install Babel
-npm install --save-dev babel-loader babel-core
-npm install --save-dev babel-preset-es2015
+</pre>
+<li>Install Babel
+<li>npm install --save-dev babel-loader babel-core
+<li>npm install --save-dev babel-preset-es2015
 
 check if .babelrc file is not created, you have to manually create it.
 
