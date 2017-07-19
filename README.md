@@ -7,7 +7,7 @@ If you are looking to setup your Javascript project using following then this gi
 <li> babel for ES6 or es2015 and  </li>  
 <li> jquery </li>
 </ul>
-To get started, follow the steps below and witness the awesomeness!!! </br>
+To get started, follow the steps below and witness the awesomeness!!! </br> </br>
 
 <ol>
 <li>Open command prompt on your windows machine OR launch terminal on Mac</li>
@@ -15,7 +15,8 @@ To get started, follow the steps below and witness the awesomeness!!! </br>
 <li>Go to folder 'projects' and clone the reposiory...</li> </br>
 <pre>git clone git@github.com:caleem/webpack-javascript-project-setup.git</pre>
 <li>you will see 'webpack-javascript-project-setup' folder under 'projects' folder.</li>
-<li>now goto 'webpack-javascript-project-setup' folder and run..</li> </br>
+<li>now goto 'webpack-javascript-project-setup' folder and run..</li> </br> </br>
+<pre>cd webpack-javascript-project-setup</pre>
 <pre>npm install</pre>
 <li>Once all the dependencies are installed, build the project to deploy it on localhost by running following command...</li> </br>
 <pre>npm run build</pre>
