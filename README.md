@@ -13,7 +13,7 @@ To get started, follow the steps below and witness the awesomeness!!! </br> </br
 <li>Open command prompt on your windows machine OR launch terminal on Mac</li>
 <li>Create your project folder say 'projects'</li>
 <li>Go to folder 'projects' and clone the reposiory...</li> </br>
-<pre>git clone git@github.com:caleem/webpack-javascript-project-setup.git</pre>
+<pre>git clone git@github.com:webrolls/webpack-js-jquery-project-setup.git</pre>
 <li>you will see 'webpack-javascript-project-setup' folder under 'projects' folder.</li>
 <li>now goto 'webpack-javascript-project-setup' folder and run..</li> </br>
 <pre>cd webpack-javascript-project-setup</pre>
