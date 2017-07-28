@@ -16,7 +16,7 @@ To get started, follow the steps below and witness the awesomeness!!! </br> </br
 <pre>git clone git@github.com:webrolls/webpack-js-jquery-project-setup.git</pre>
 <li>you will see 'webpack-javascript-project-setup' folder under 'projects' folder.</li>
 <li>now goto 'webpack-javascript-project-setup' folder and run..</li> </br>
-<pre>cd webpack-javascript-project-setup</pre>
+<pre>cd webpack-js-jquery-project-setup</pre>
 <pre>npm install</pre>
 <li>Once all the dependencies are installed, build the project to deploy it on localhost by running following command...</li> </br>
 <pre>npm run build</pre>
