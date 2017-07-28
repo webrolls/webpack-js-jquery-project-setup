@@ -1,4 +1,4 @@
-<strong>Simple Javascript project setup using nodejs</strong>
+<strong>Simple Javascript Project Setup Using Nodejs</strong>
 
 This is a simple plain Javascript boilerplate project setup. </br>
 If you are looking to setup your Javascript project using following then this git repo might help you.
