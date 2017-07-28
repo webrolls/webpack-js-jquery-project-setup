@@ -1,4 +1,4 @@
-<strong>Webpack/Babel javascript project setup</strong>
+<strong>Simple Javascript project setup using nodejs</strong>
 
 This is a simple plain Javascript boilerplate project setup. </br>
 If you are looking to setup your Javascript project using following then this git repo might help you.
@@ -27,10 +27,9 @@ To get started, follow the steps below and witness the awesomeness!!! </br> </br
 <li>Done!</li>
 </ol>
 
-If you experience any challenge, please let us know we will update the steps.
+Please let us know your feedback.
 
-thank you
-
+Thank You!
 Webrolls
 
 
